@@ -29,4 +29,4 @@ async def about(ctx):
 	await ctx.send(embed = embed)
 
 
-client.run("ODgyNjQ1MDM2Mzg1MzE2OTE0.YS-ZPw.Zye2VcrYtSl0gcbE_Hyg3jKpEqw")
+client.run("TOKEN")
