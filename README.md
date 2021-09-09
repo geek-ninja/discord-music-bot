@@ -132,6 +132,8 @@ async def about(ctx):
 ```
 
 
+<p>Screenshot of the bot working in a VC</p>
+
 ![](bot.png)
 
 
